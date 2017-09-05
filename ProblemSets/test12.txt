@@ -1,0 +1,14 @@
+test test
+
+* to set it up
+git remote add upstream *here link.
+
+* to update
+git fetch upstream
+git merge upstream/master
+
+c/users/eren/compecon_fall17
+
+* useful : .dir to check what's in
+cd . to check where you are
+cd compecon_fall17 to set it up.
